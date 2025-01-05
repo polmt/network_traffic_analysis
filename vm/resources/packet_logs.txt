@@ -1,0 +1,172 @@
+
+[2025-01-05 10:28:33.481950] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:33.521279] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:34.482935] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:34.522945] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:35.485708] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:35.525369] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:36.488758] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:36.528209] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:37.490041] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:37.530196] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:38.493308] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:38.532543] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:39.496641] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:39.536993] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:40.499327] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:40.538792] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:41.502876] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:28:41.542701] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+Non-TCP/UDP packet detected
+
+
+[2025-01-05 10:30:35.810885] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:35.865461] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:36.812672] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:36.852040] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:37.815936] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:37.855032] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:38.818325] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:38.858297] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:39.820729] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:39.860036] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:40.823076] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:40.862961] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:41.824704] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:41.864571] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:42.826935] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:42.866271] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:43.831196] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:43.870977] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
+
+[2025-01-05 10:30:44.835953] Captured Packet: 10.60.0.1 -> 184.28.89.170 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 8
+
+
+[2025-01-05 10:30:44.875357] Captured Packet: 184.28.89.170 -> 10.60.0.1 | Protocol: 1
+ICMP Packet Detected
+ICMP Type: 0
+
