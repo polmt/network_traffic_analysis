@@ -1,0 +1,1 @@
+IP / ICMP 10.60.0.1 > 142.250.185.238 echo-request 0 / Raw
