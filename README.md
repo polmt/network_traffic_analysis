@@ -1,5 +1,22 @@
 # Network Traffic Analysis - Deep Packet Inspection
 
+## Setup
+
+```
+git clone https://github.com/polmt/network_traffic_analysis
+```
+
+### Setup Commands
+```
+# Create virtual environment
+python -m venv venv
+```
+
+```
+.\myenv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
 ## Overview
 This document provides a guide on how to generate, capture, and analyze network traffic using tools like `wget`, `traceroute`, `ping`, `curl`, `tcpdump`, and `tshark`. The purpose is to conduct deep packet inspection (DPI) for network traffic analysis.
 
